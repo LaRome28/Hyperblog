@@ -1,6 +1,7 @@
 body {
     text-align: left;
-
+    border: 1px solid black;
+    background: black;
 }
 
 h1 {
@@ -9,14 +10,39 @@ h1 {
 }
 
 p {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
 
 .container {
-    padding: 1em;
+    padding: 0em;
     width: 70%;
     text-align: left;
     border: 1px solid #ddd;
 }
 
+#cabecera {
+    background:no-repeat center center;
+    color: whitesmoke;
+    margin: 0px;
+    padding: 0.5em 0 0.5em 2em;
+    font-weight: bold;
+    box-shadow: 0px 2px 20px 0px rgba(0 , 0, 0, 0.5);
+    justify-content: center;
+}
+
+#tagline {
+    font-weight: normal;
+    font-size: 0.8em;
+    padding: 0 0 0 1em;
+}
+.post {
+    padding: 1em;
+    background: whitesmoke;
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+}
