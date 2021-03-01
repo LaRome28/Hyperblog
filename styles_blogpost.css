@@ -20,3 +20,9 @@ p {
     border: 1px solid #ddd;
 }
 
+#footer {
+    background: #777;
+    color: whitesmoke;
+    text-align: center;
+    padding: 0.5em;
+}
