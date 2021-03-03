@@ -10,5 +10,6 @@ Un blog chevere y público para todos los novatos como yo.
 * Prácticas de lo aprendido
 * Truquiños
 * Personalidades del frederico
+* Creado por el muñañao
 
 Y como recordatorio este read.me es un **chiste jaja rianse ** vean el curso [platzi](http://platzi.com "platzi")
