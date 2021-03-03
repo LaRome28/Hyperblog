@@ -11,5 +11,10 @@ Un blog chevere y público para todos los novatos como yo.
 * Truquiños
 * Personalidades del frederico
 * Creado por el muñañao
+<<<<<<< HEAD
+=======
+* incluye de todo y lo básico
+* Disponible para todas las edades 
+>>>>>>> readme-mejorado
 
 Y como recordatorio este read.me es un **chiste jaja rianse ** vean el curso [platzi](http://platzi.com "platzi")
